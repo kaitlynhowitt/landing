@@ -1,27 +1,27 @@
-.container {
+.Container {
 	width: 300px;
 	margin: 80px auto;
 }
 
 @media (max-width: 960px) {
-  .container {
+  .Container {
     width: 700px;
   }
 }
 @media (max-width: 720px) {
-  .container {
+  .Container {
     width: 500px;
   }
 }
 @media (max-width: 540px) {
-  .container {
+  .Container {
     width: 300px;
   }
 }
 
 h2{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
-    color: #588da8
+    color: #588da8;
 }
 
