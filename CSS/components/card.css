@@ -19,12 +19,6 @@
 		flex-grow: 1;
 	}
 
-	.card h1{
-		font-size: 20px;
-		font-weight: bold;
-		color: #588da8
-	}
-
 	.card img{
 		width: 150px;
 		border: 2px solid grey;
